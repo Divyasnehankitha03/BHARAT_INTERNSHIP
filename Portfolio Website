@@ -1,0 +1,420 @@
+proto html:-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" >
+  <title>PERSONAL INFO </title>
+  <link rel="stylesheet" href="1.css" >
+</head>
+<body>
+  <div class="navii">
+    <a class="button" href="proto.html">HOME</a>
+    <a class="button"href="edu.html">EDUCATION</a>
+    <a class="button" href="skill.html">SKILL</a>
+  </div>
+  <div class="myself">
+    <h1>This is THARUGU DIVYA SNEHANKITHA</h1>
+	<img src="image1.png" href="picture">
+  </div>
+  <div class="info">
+    <div class="note" id="about">
+      <h1 class="text">ABOUT ME.. </h1>
+      <h3 class="intro">
+      I am Divya.
+         I am currently pursuing final year B.Tech in Audisankara College of Engineering & Technology.
+          I believe that your positive action combined with positive thinking results in success.
+         The harder you work for something, the greater you will feel when you achieve it.
+    </h3>
+    <hr>
+  </div>
+  <div class="knowledge" id="myknowledge">
+    <h1 class="text">My Skills</h1>
+    <div class="knowledgerow">
+      <h3>PROGRAMS</h3>
+      <p>
+        I am a programmer.I am good at C,Pyton .
+      </p>
+      <img src="image2.jpeg">
+    </div>
+    <div class="knowledgerow">
+    <h3>WEB DEVELOPMENT</h3>
+      <p>       I have Some knowlege in HTML,CSS... </p>
+    </div>
+	<div class="knowledgerow">
+	<img src="image3.jpeg">
+	</div>
+    <hr>
+    <div class="achievements" id="achieve">
+      <h1 class="message">My Certifications</h1>
+      <div class="knowledgerow">
+
+        <h3> DATA SCIENCE</h3>
+        <p>Earned a certificate of completion at "Exposys Data Labs" </p>
+		<h3>FLIPKART CERTIFICATE</h3>
+		<P>Earned a certificate for participating in the E-commerce & Tech Quiz of the FLIPKART GRID 5.0</P>
+      </div>
+</div>
+<hr>
+<div class="ping">
+  <a class="button" href="snehankitha2002@gmail.com">contact me</a>
+</div>
+</div>
+<div class="footer">
+  <a class="lnk" href="https://www.linkedin.com/in/tharugu-divya-snehankitha-8ba527250">linkedin</a>
+  <a class="lnk" href="https://github.com/Divyasnehankitha03/Divyasnehankitha03">github</a>
+  <a class="lnk" href="#">instagram</a>
+</div>
+</body>
+</html>
+
+edu.html:-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" >
+  <title>My Education </title>
+  <link rel="stylesheet" href="1.css" >
+  <link rel="icon" href="icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+  <div class="navii">
+    <a href="proto.html">HOME</a>
+    <a href="edu.html">EDUCATION</a>
+    <a href="skill.html">SKILL</a>
+  </div>
+  <div class="myself-education">
+    <h1>EDUCATION</h1>
+  </div>
+  <div class="info">
+    <div class="linkedin">
+      <h1 class="education">PYTHON COURSES</h1>
+      <h3 class="linkedin">
+      <a href="https://www.udemy.com/course/python-programming-tutorial-for-beginners"udemy.com<\a>
+    </h3>
+    <ul class="edu-info">
+      <li class="edu-info-li">
+        PYTHON CONCEPTS::
+        </li>
+        <li class="edu-info-li">
+          @list@
+          @TUPLE@
+          </li>
+          <li class="edu-info-li">
+           @SET@
+           @DICTIONARY@
+            </li>
+            </ul>
+            </div>
+    <hr>
+  <div class="campus">
+    <h2 class="management">B.TECH, Computer Science And Engineering</h2>
+    <h3>Audisanakara College Of Enginnering & Technology ,  Gudur</h3>
+    <h4>Aug 2020-Aug 2024</h4>
+    <p>Currently Pursuing final year Bachelor Of Engineering in The Stream Of Computer Science </p>
+    <img src="image4.jpeg" height=20% width=20% >
+    </div>
+    <hr>
+    <div class="intermediate">
+      <h2>INTERMEDIATE(M.P.C)</h2>
+      <h3>Vignan Juniour College, Podalakur</h3>
+      <h4>June 2018 July - 2020<br>
+        <br> 9.79/10 cgpa Achieved </h4>
+        <hr>
+        </div>
+        <div class="tenth">
+          <h2>10<sup>th<sup>class</h2>
+            <h3>Don Bosco E.M . High School</h3>
+            <h4>June 2017-July 2018<br>
+              <br>9.5/10 cgpa Achieved</h4>
+              <hr>
+              </div>
+              </div>
+<div class="footer">
+  <a class="lnk" href="https://www.linkedin.com/in/tharugu-divya-snehankitha-8ba527250">linkedin</a>
+  <a class="lnk" href="https://github.com/Divyasnehankitha03/Divyasnehankitha03">github</a>
+  <a class="lnk" href="#">instagram</a>
+</div>
+</body>
+</html>
+
+skill.html:-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" >
+  <title>My Skills </title>
+  <link rel="stylesheet" href="1.css" >
+</head>
+<body>
+  <div class="navii">
+    <a href="proto.html">HOME</a>
+    <a href="edu.html">EDUCATION</a>
+    <a href="skill.html">SKILL</a>
+  </div>
+  <div class="myself-skills">
+    <h1>SKILLS</h1>
+  </div>
+  <div class="middle-container">
+    <div class="program-skills">
+      <h2> PROGRAMMING LANGUAGES</h2>
+      <h3 class="skilldata">
+        I love coding.
+        I learnt C,Python
+         Programming Languages.
+        I also know about Html,CSS.
+        </h3>
+        <table class="program">
+          <tr>
+            <td>PYTHON</td>
+            <td>*****<td>
+              </tr>
+              <tr>
+                <td>C</td>
+                <td>***<td>
+                  </tr>
+                  <tr>
+                    <td>JAVASCRIPT</td>
+                    <td>***<td>
+                      </tr>
+              <tr>
+                <td>HTML</td>
+                <td>*****<td>
+                  </tr>
+                  <tr>
+                    <td>CSS</td>
+                    <td>****<td>
+                      </tr>
+
+                    </table>
+
+                              </div><hr>
+                              </div>
+
+                              </body>
+                              </html>
+
+1.css:-
+body{
+  color: #345678;
+  font-family: monospace,sans-serif,serif;
+  margin: 0;
+  text-align: center;
+}
+.myself{
+  background-color: pink;
+  padding: 120px;
+}
+h1{
+  color: white;
+  font-family: cursive,fantasy,monospace;
+  font-size: 7rem;
+  margin: 0 auto 0 auto;
+  color: #432156;
+}
+h2{
+  color: white;
+  font-family: fantasy,sans-serif,fantasy;
+  font-size: 1.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  color:#345678;
+  font-family: cursive,sans-serif,serif;
+}
+.text{
+  color: #435675;
+  font-family: cursive,monospace,fantasy;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 70px;
+  margin-top: 50px;
+}
+.intro{
+  font-size: 1.17em;
+  margin-block-start:1em;
+    margin-block-end:1em;
+      margin-inline-start:0px;
+        margin-inline-end:0px;
+        color:#456578;
+        line-height: 2;
+        font-weight: 700;
+        width: 40%;
+        margin: auto;
+        padding-bottom: 35px;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 4%;
+  color: #532467;
+}
+.lftimg{
+  border-radius: 50%;
+  background-color: #432156;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.rgtimg{
+  border-radius: 50%;
+  background-color: #455677;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.knowlwdgerow{
+  width: 50%;
+  margin: 10px auto 120px auto;
+  color: #213455;
+}
+.knowledge{
+  margin-top: 80px;
+  color: #123e45;
+}
+p{
+  line-height: 2;
+  font-weight: 700;
+  color: #432876;
+}
+.button{
+  background-color: #435798;
+  border-radius: 12px;
+  color:pink;
+  font-family: cursive,fantasy,monospace;
+  padding: 15px;
+  text-decoration: none;
+}
+.button1{
+  background-color: #434343;
+  border-radius: 12px;
+  color:white;
+  font-family: cursive,fantasy,monospace;
+  padding: 15px;
+  text-decoration: none;
+}
+.button:hover{
+  background-color: #7c4789;
+  border-radius: 12px;
+  color: red;
+  font-family: fantasy,monospace,sans-serif;
+  padding: 15px;
+  text-decoration: none;
+}
+.button:hover{
+  background-color: #7c4789;
+}
+.footer{
+  background-color: #4a0e5c;
+  padding: 50px 0 20px;
+}
+.footer a{
+  color: #7c4789;
+}
+a{
+  text-decoration: none;
+  color: #432545;
+}
+.lnk{
+  padding: 10px;
+  color: #213456;
+}
+.lnk:hover{
+  color:red;
+}
+.ping{
+  margin: 70px 0px;
+  color: #123565;
+}
+.navii{
+  position: absolute;
+              background-color: #333;
+              list-style-type: none;
+              width: 100%;
+              padding: 0px;
+}
+.navii li{
+  display: flex;
+            flex-direction: column;
+            float: left;
+}
+.navii li a{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+          text-decoration: none;
+          color: white;
+          display: block;
+          padding: 15px 53px;
+          font-size: 24px;
+}
+.navii li a:hover{
+  background-color: #111;
+}
+a{
+  padding-right: 40px;
+}
+a:hover{
+  color: #7c4789;
+}
+.myself-education{
+  background-color:pink;
+  padding: 50px;
+}
+.education{
+  color: #4a0e5c;
+  font-family: monospace,sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.linkedin a {
+  color:#473291;
+  font-family: serif;
+}
+.edu-info-li{
+  padding: 10px;
+}
+li{
+  list-style-type: none;
+}
+.myself-work {
+  background-color: #f27569;
+  padding:50px;
+}
+.pen{
+  color: #568425;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 18px;
+}
+.lnk-web{
+  line-height: 3;
+}
+.myself-skills{
+  background-color: #b46784;
+  padding: 50px;
+}
+.skills-info{
+  margin:0 auto 30px;
+  width:50%;
+}
+table{
+  font-family: sans-serif;
+  margin: auto;
+}
+td{
+  padding: 10px;
+  text-align: center;
+}
+.navii a{
+  color:#b36548;
+}
